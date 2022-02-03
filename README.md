@@ -20,6 +20,15 @@ A Django project boilerplate/template with lots of state of the art libraries an
 - Axios
 
 
+
+## Features
+
+- User Serializer is initialized 
+- User register endpoint initialized 
+- User Token endpoint initialized
+
+
+
 ## Installation
 
 ```bash
