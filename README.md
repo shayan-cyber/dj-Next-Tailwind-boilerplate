@@ -12,6 +12,13 @@ A Django project boilerplate/template with lots of state of the art libraries an
 - TailwindCSS
 
 
+## Extra Libraries
+
+
+- django cors-headers
+- React Icons
+- Axios
+
 
 ## Installation
 
